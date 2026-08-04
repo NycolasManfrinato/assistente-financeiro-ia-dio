@@ -1,0 +1,7 @@
+# O núcleo do agente (src/bussola) roda só com a biblioteca padrão.
+# Estas dependências são apenas para a interface web.
+#
+#   python src/cli.py            -> não precisa de nada disto
+#   streamlit run src/app.py     -> precisa
+
+streamlit>=1.30
