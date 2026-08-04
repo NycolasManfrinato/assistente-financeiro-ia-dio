@@ -1,0 +1,286 @@
+id_transacao,data,descricao,categoria,tipo,valor,canal
+TX00023,2026-02-01,Delivery de comida,alimentacao,debito,42.44,cartao_credito
+TX00016,2026-02-02,Restaurante,alimentacao,debito,32.11,cartao_debito
+TX00040,2026-02-02,Posto de combustivel,transporte,debito,237.5,cartao_debito
+TX00009,2026-02-03,Streaming de video A,assinaturas,debito,39.9,cartao_credito
+TX00012,2026-02-04,Restaurante,alimentacao,debito,142.2,cartao_debito
+TX00037,2026-02-04,Aplicativo de transporte,transporte,debito,33.36,cartao_credito
+TX00001,2026-02-05,Salario liquido,salario,credito,6800.0,ted
+TX00002,2026-02-05,Aluguel,moradia,debito,1754.58,debito_automatico
+TX00003,2026-02-05,Condominio,moradia,debito,433.48,debito_automatico
+TX00013,2026-02-05,Restaurante,alimentacao,debito,40.7,pix
+TX00033,2026-02-05,Aplicativo de transporte,transporte,debito,40.14,cartao_debito
+TX00022,2026-02-06,Delivery de comida,alimentacao,debito,52.59,cartao_credito
+TX00030,2026-02-06,Supermercado,mercado,debito,145.14,cartao_credito
+TX00044,2026-02-06,Farmacia,saude,debito,56.01,cartao_credito
+TX00010,2026-02-07,Streaming de video B,assinaturas,debito,34.9,cartao_credito
+TX00007,2026-02-08,Mensalidade curso,educacao,debito,389.0,debito_automatico
+TX00006,2026-02-10,Plano de saude,saude,debito,512.0,debito_automatico
+TX00011,2026-02-11,Streaming de musica,assinaturas,debito,21.9,cartao_credito
+TX00036,2026-02-11,Aplicativo de transporte,transporte,debito,35.66,pix
+TX00004,2026-02-12,Energia eletrica,moradia,debito,170.52,debito_automatico
+TX00041,2026-02-12,Cinema e eventos,lazer,debito,62.7,pix
+TX00035,2026-02-14,Aplicativo de transporte,transporte,debito,59.21,cartao_debito
+TX00005,2026-02-15,Internet banda larga,moradia,debito,108.42,debito_automatico
+TX00043,2026-02-15,Loja de roupas,vestuario,debito,267.94,cartao_debito
+TX00017,2026-02-16,Restaurante,alimentacao,debito,28.79,cartao_debito
+TX00019,2026-02-16,Restaurante,alimentacao,debito,48.37,pix
+TX00026,2026-02-16,Delivery de comida,alimentacao,debito,45.55,pix
+TX00039,2026-02-16,Posto de combustivel,transporte,debito,168.03,pix
+TX00025,2026-02-17,Delivery de comida,alimentacao,debito,60.28,cartao_debito
+TX00015,2026-02-19,Restaurante,alimentacao,debito,118.23,cartao_credito
+TX00021,2026-02-19,Delivery de comida,alimentacao,debito,51.38,cartao_debito
+TX00008,2026-02-20,Seguro do carro,transporte,debito,210.0,debito_automatico
+TX00027,2026-02-20,Supermercado,mercado,debito,145.77,cartao_debito
+TX00032,2026-02-20,Aplicativo de transporte,transporte,debito,28.67,cartao_credito
+TX00042,2026-02-20,Cinema e eventos,lazer,debito,82.87,cartao_debito
+TX00014,2026-02-21,Restaurante,alimentacao,debito,36.24,pix
+TX00029,2026-02-22,Supermercado,mercado,debito,272.52,pix
+TX00034,2026-02-22,Aplicativo de transporte,transporte,debito,57.95,cartao_debito
+TX00031,2026-02-23,Aplicativo de transporte,transporte,debito,15.77,pix
+TX00028,2026-02-24,Supermercado,mercado,debito,432.52,cartao_debito
+TX00038,2026-02-24,Aplicativo de transporte,transporte,debito,42.86,cartao_credito
+TX00020,2026-02-25,Restaurante,alimentacao,debito,101.63,pix
+TX00024,2026-02-25,Delivery de comida,alimentacao,debito,44.19,cartao_credito
+TX00018,2026-02-26,Restaurante,alimentacao,debito,94.26,cartao_debito
+TX00045,2026-02-27,Farmacia,saude,debito,73.19,cartao_debito
+TX00078,2026-03-01,Aplicativo de transporte,transporte,debito,20.77,cartao_debito
+TX00079,2026-03-01,Aplicativo de transporte,transporte,debito,18.06,cartao_credito
+TX00080,2026-03-01,Aplicativo de transporte,transporte,debito,63.04,pix
+TX00062,2026-03-02,Restaurante,alimentacao,debito,88.45,pix
+TX00054,2026-03-03,Streaming de video A,assinaturas,debito,39.9,cartao_credito
+TX00060,2026-03-03,Restaurante,alimentacao,debito,66.66,pix
+TX00064,2026-03-03,Restaurante,alimentacao,debito,45.32,pix
+TX00087,2026-03-03,Cinema e eventos,lazer,debito,177.02,cartao_debito
+TX00046,2026-03-05,Salario liquido,salario,credito,6800.0,ted
+TX00047,2026-03-05,Aluguel,moradia,debito,1739.88,debito_automatico
+TX00048,2026-03-05,Condominio,moradia,debito,403.13,debito_automatico
+TX00058,2026-03-05,Restaurante,alimentacao,debito,123.39,cartao_debito
+TX00055,2026-03-07,Streaming de video B,assinaturas,debito,34.9,cartao_credito
+TX00059,2026-03-07,Restaurante,alimentacao,debito,69.3,cartao_debito
+TX00069,2026-03-07,Delivery de comida,alimentacao,debito,41.1,pix
+TX00052,2026-03-08,Mensalidade curso,educacao,debito,389.0,debito_automatico
+TX00076,2026-03-08,Supermercado,mercado,debito,194.81,pix
+TX00072,2026-03-09,Delivery de comida,alimentacao,debito,79.74,cartao_credito
+TX00051,2026-03-10,Plano de saude,saude,debito,512.0,debito_automatico
+TX00066,2026-03-10,Restaurante,alimentacao,debito,99.71,pix
+TX00056,2026-03-11,Streaming de musica,assinaturas,debito,21.9,cartao_credito
+TX00061,2026-03-11,Restaurante,alimentacao,debito,43.15,pix
+TX00086,2026-03-11,Posto de combustivel,transporte,debito,176.07,cartao_debito
+TX00049,2026-03-12,Energia eletrica,moradia,debito,157.73,debito_automatico
+TX00071,2026-03-13,Delivery de comida,alimentacao,debito,83.93,cartao_credito
+TX00085,2026-03-13,Posto de combustivel,transporte,debito,138.87,pix
+TX00057,2026-03-14,Armazenamento em nuvem,assinaturas,debito,12.99,cartao_credito
+TX00084,2026-03-14,Aplicativo de transporte,transporte,debito,55.27,pix
+TX00050,2026-03-15,Internet banda larga,moradia,debito,124.04,debito_automatico
+TX00065,2026-03-15,Restaurante,alimentacao,debito,36.19,cartao_debito
+TX00075,2026-03-15,Supermercado,mercado,debito,240.41,cartao_credito
+TX00073,2026-03-16,Supermercado,mercado,debito,421.88,cartao_credito
+TX00089,2026-03-19,Loja de roupas,vestuario,debito,157.59,cartao_debito
+TX00091,2026-03-19,Farmacia,saude,debito,69.27,cartao_credito
+TX00053,2026-03-20,Seguro do carro,transporte,debito,210.0,debito_automatico
+TX00063,2026-03-20,Restaurante,alimentacao,debito,66.29,cartao_debito
+TX00090,2026-03-20,Farmacia,saude,debito,114.03,pix
+TX00068,2026-03-21,Delivery de comida,alimentacao,debito,72.94,pix
+TX00067,2026-03-22,Delivery de comida,alimentacao,debito,59.82,cartao_debito
+TX00088,2026-03-23,Cinema e eventos,lazer,debito,167.39,pix
+TX00077,2026-03-24,Aplicativo de transporte,transporte,debito,34.01,pix
+TX00082,2026-03-24,Aplicativo de transporte,transporte,debito,12.85,pix
+TX00074,2026-03-27,Supermercado,mercado,debito,416.34,cartao_debito
+TX00070,2026-03-28,Delivery de comida,alimentacao,debito,44.3,cartao_debito
+TX00081,2026-03-28,Aplicativo de transporte,transporte,debito,20.77,cartao_credito
+TX00083,2026-03-28,Aplicativo de transporte,transporte,debito,54.74,cartao_credito
+TX00133,2026-04-01,Posto de combustivel,transporte,debito,143.12,cartao_debito
+TX00137,2026-04-01,Farmacia,saude,debito,101.1,cartao_credito
+TX00100,2026-04-03,Streaming de video A,assinaturas,debito,39.9,cartao_credito
+TX00115,2026-04-03,Delivery de comida,alimentacao,debito,84.02,pix
+TX00118,2026-04-03,Delivery de comida,alimentacao,debito,62.04,cartao_credito
+TX00127,2026-04-03,Aplicativo de transporte,transporte,debito,15.66,cartao_debito
+TX00116,2026-04-04,Delivery de comida,alimentacao,debito,39.88,cartao_credito
+TX00092,2026-04-05,Salario liquido,salario,credito,6800.0,ted
+TX00093,2026-04-05,Aluguel,moradia,debito,1917.48,debito_automatico
+TX00094,2026-04-05,Condominio,moradia,debito,440.08,debito_automatico
+TX00107,2026-04-05,Restaurante,alimentacao,debito,138.34,cartao_credito
+TX00126,2026-04-05,Aplicativo de transporte,transporte,debito,31.14,cartao_credito
+TX00134,2026-04-05,Cinema e eventos,lazer,debito,50.36,cartao_debito
+TX00104,2026-04-06,Academia,assinaturas,debito,109.9,cartao_credito
+TX00101,2026-04-07,Streaming de video B,assinaturas,debito,34.9,cartao_credito
+TX00098,2026-04-08,Mensalidade curso,educacao,debito,389.0,debito_automatico
+TX00123,2026-04-08,Supermercado,mercado,debito,371.93,pix
+TX00138,2026-04-08,Farmacia,saude,debito,99.43,pix
+TX00097,2026-04-10,Plano de saude,saude,debito,512.0,debito_automatico
+TX00121,2026-04-10,Supermercado,mercado,debito,352.02,cartao_credito
+TX00125,2026-04-10,Aplicativo de transporte,transporte,debito,41.32,cartao_credito
+TX00102,2026-04-11,Streaming de musica,assinaturas,debito,21.9,cartao_credito
+TX00119,2026-04-11,Delivery de comida,alimentacao,debito,94.14,cartao_debito
+TX00095,2026-04-12,Energia eletrica,moradia,debito,181.69,debito_automatico
+TX00106,2026-04-12,Restaurante,alimentacao,debito,109.87,pix
+TX00109,2026-04-12,Restaurante,alimentacao,debito,44.2,pix
+TX00135,2026-04-13,Cinema e eventos,lazer,debito,95.99,pix
+TX00103,2026-04-14,Armazenamento em nuvem,assinaturas,debito,12.99,cartao_credito
+TX00096,2026-04-15,Internet banda larga,moradia,debito,118.45,debito_automatico
+TX00129,2026-04-15,Aplicativo de transporte,transporte,debito,21.46,cartao_credito
+TX00114,2026-04-16,Delivery de comida,alimentacao,debito,63.06,cartao_credito
+TX00112,2026-04-17,Restaurante,alimentacao,debito,129.94,cartao_debito
+TX00132,2026-04-17,Posto de combustivel,transporte,debito,187.02,cartao_credito
+TX00120,2026-04-18,Supermercado,mercado,debito,233.65,pix
+TX00130,2026-04-18,Aplicativo de transporte,transporte,debito,16.97,cartao_debito
+TX00113,2026-04-19,Restaurante,alimentacao,debito,67.83,pix
+TX00131,2026-04-19,Aplicativo de transporte,transporte,debito,20.21,pix
+TX00099,2026-04-20,Seguro do carro,transporte,debito,210.0,debito_automatico
+TX00108,2026-04-23,Restaurante,alimentacao,debito,34.53,pix
+TX00110,2026-04-23,Restaurante,alimentacao,debito,91.75,pix
+TX00122,2026-04-23,Supermercado,mercado,debito,306.56,cartao_credito
+TX00136,2026-04-24,Loja de roupas,vestuario,debito,100.78,pix
+TX00105,2026-04-25,Restaurante,alimentacao,debito,79.95,cartao_credito
+TX00117,2026-04-26,Delivery de comida,alimentacao,debito,72.17,cartao_credito
+TX00124,2026-04-27,Aplicativo de transporte,transporte,debito,24.04,cartao_credito
+TX00128,2026-04-27,Aplicativo de transporte,transporte,debito,34.36,cartao_credito
+TX00111,2026-04-28,Restaurante,alimentacao,debito,93.53,pix
+TX00154,2026-05-01,Restaurante,alimentacao,debito,115.39,cartao_debito
+TX00162,2026-05-01,Delivery de comida,alimentacao,debito,45.71,cartao_debito
+TX00171,2026-05-01,Supermercado,mercado,debito,324.44,pix
+TX00176,2026-05-01,Aplicativo de transporte,transporte,debito,33.13,cartao_debito
+TX00177,2026-05-01,Aplicativo de transporte,transporte,debito,26.52,cartao_credito
+TX00178,2026-05-01,Aplicativo de transporte,transporte,debito,49.21,pix
+TX00155,2026-05-02,Restaurante,alimentacao,debito,99.93,pix
+TX00158,2026-05-02,Restaurante,alimentacao,debito,121.37,cartao_credito
+TX00174,2026-05-02,Aplicativo de transporte,transporte,debito,50.47,pix
+TX00147,2026-05-03,Streaming de video A,assinaturas,debito,39.9,cartao_credito
+TX00139,2026-05-05,Salario liquido,salario,credito,6800.0,ted
+TX00140,2026-05-05,Aluguel,moradia,debito,1953.04,debito_automatico
+TX00141,2026-05-05,Condominio,moradia,debito,419.86,debito_automatico
+TX00167,2026-05-05,Delivery de comida,alimentacao,debito,54.69,pix
+TX00151,2026-05-06,Academia,assinaturas,debito,109.9,cartao_credito
+TX00148,2026-05-07,Streaming de video B,assinaturas,debito,34.9,cartao_credito
+TX00163,2026-05-07,Delivery de comida,alimentacao,debito,55.87,cartao_debito
+TX00145,2026-05-08,Mensalidade curso,educacao,debito,389.0,debito_automatico
+TX00159,2026-05-08,Restaurante,alimentacao,debito,75.99,pix
+TX00165,2026-05-08,Delivery de comida,alimentacao,debito,91.74,cartao_credito
+TX00181,2026-05-08,Posto de combustivel,transporte,debito,140.56,cartao_debito
+TX00170,2026-05-09,Supermercado,mercado,debito,474.65,cartao_debito
+TX00144,2026-05-10,Plano de saude,saude,debito,512.0,debito_automatico
+TX00149,2026-05-11,Streaming de musica,assinaturas,debito,21.9,cartao_credito
+TX00142,2026-05-12,Energia eletrica,moradia,debito,175.77,debito_automatico
+TX00164,2026-05-12,Delivery de comida,alimentacao,debito,48.9,pix
+TX00184,2026-05-12,Loja de roupas,vestuario,debito,177.74,cartao_credito
+TX00172,2026-05-13,Aplicativo de transporte,transporte,debito,28.86,cartao_debito
+TX00150,2026-05-14,Armazenamento em nuvem,assinaturas,debito,12.99,cartao_credito
+TX00143,2026-05-15,Internet banda larga,moradia,debito,130.94,debito_automatico
+TX00156,2026-05-15,Restaurante,alimentacao,debito,115.52,cartao_debito
+TX00160,2026-05-16,Restaurante,alimentacao,debito,89.73,pix
+TX00152,2026-05-18,Aplicativo de produtividade,assinaturas,debito,29.9,cartao_credito
+TX00146,2026-05-20,Seguro do carro,transporte,debito,210.0,debito_automatico
+TX00168,2026-05-20,Supermercado,mercado,debito,442.81,pix
+TX00183,2026-05-20,Cinema e eventos,lazer,debito,50.74,cartao_debito
+TX00175,2026-05-22,Aplicativo de transporte,transporte,debito,41.7,cartao_credito
+TX00179,2026-05-22,Aplicativo de transporte,transporte,debito,67.64,cartao_credito
+TX00187,2026-05-22,Juros rotativo cartao de credito,servicos_financeiros,debito,268.25,cartao_credito
+TX00182,2026-05-23,Cinema e eventos,lazer,debito,153.82,pix
+TX00153,2026-05-24,Restaurante,alimentacao,debito,71.26,cartao_credito
+TX00166,2026-05-24,Delivery de comida,alimentacao,debito,43.94,pix
+TX00180,2026-05-24,Posto de combustivel,transporte,debito,94.89,cartao_credito
+TX00157,2026-05-26,Restaurante,alimentacao,debito,28.44,pix
+TX00161,2026-05-26,Restaurante,alimentacao,debito,108.11,cartao_debito
+TX00169,2026-05-26,Supermercado,mercado,debito,419.58,cartao_debito
+TX00173,2026-05-26,Aplicativo de transporte,transporte,debito,43.85,cartao_debito
+TX00185,2026-05-26,Farmacia,saude,debito,59.43,cartao_credito
+TX00186,2026-05-26,Farmacia,saude,debito,89.62,cartao_debito
+TX00209,2026-06-02,Restaurante,alimentacao,debito,115.27,cartao_credito
+TX00196,2026-06-03,Streaming de video A,assinaturas,debito,39.9,cartao_credito
+TX00210,2026-06-03,Restaurante,alimentacao,debito,133.49,cartao_credito
+TX00214,2026-06-03,Delivery de comida,alimentacao,debito,40.85,pix
+TX00228,2026-06-03,Aplicativo de transporte,transporte,debito,41.68,pix
+TX00220,2026-06-04,Supermercado,mercado,debito,341.77,cartao_debito
+TX00188,2026-06-05,Salario liquido,salario,credito,6800.0,ted
+TX00189,2026-06-05,Aluguel,moradia,debito,1719.18,debito_automatico
+TX00190,2026-06-05,Condominio,moradia,debito,447.03,debito_automatico
+TX00217,2026-06-05,Supermercado,mercado,debito,292.38,cartao_debito
+TX00200,2026-06-06,Academia,assinaturas,debito,109.9,cartao_credito
+TX00197,2026-06-07,Streaming de video B,assinaturas,debito,34.9,cartao_credito
+TX00218,2026-06-07,Supermercado,mercado,debito,111.48,cartao_credito
+TX00234,2026-06-07,Farmacia,saude,debito,82.14,cartao_credito
+TX00194,2026-06-08,Mensalidade curso,educacao,debito,389.0,debito_automatico
+TX00226,2026-06-08,Aplicativo de transporte,transporte,debito,61.09,pix
+TX00193,2026-06-10,Plano de saude,saude,debito,512.0,debito_automatico
+TX00202,2026-06-10,Restaurante,alimentacao,debito,60.29,cartao_debito
+TX00205,2026-06-10,Restaurante,alimentacao,debito,62.12,pix
+TX00198,2026-06-11,Streaming de musica,assinaturas,debito,21.9,cartao_credito
+TX00215,2026-06-11,Delivery de comida,alimentacao,debito,96.7,cartao_credito
+TX00235,2026-06-11,Farmacia,saude,debito,51.39,cartao_credito
+TX00191,2026-06-12,Energia eletrica,moradia,debito,153.59,debito_automatico
+TX00213,2026-06-12,Delivery de comida,alimentacao,debito,75.82,cartao_debito
+TX00231,2026-06-12,Cinema e eventos,lazer,debito,170.28,pix
+TX00225,2026-06-13,Aplicativo de transporte,transporte,debito,28.59,cartao_debito
+TX00199,2026-06-14,Armazenamento em nuvem,assinaturas,debito,12.99,cartao_credito
+TX00204,2026-06-14,Restaurante,alimentacao,debito,111.91,cartao_debito
+TX00192,2026-06-15,Internet banda larga,moradia,debito,113.06,debito_automatico
+TX00233,2026-06-15,Loja de roupas,vestuario,debito,196.32,cartao_debito
+TX00229,2026-06-16,Posto de combustivel,transporte,debito,112.14,cartao_credito
+TX00223,2026-06-17,Aplicativo de transporte,transporte,debito,29.14,pix
+TX00201,2026-06-18,Aplicativo de produtividade,assinaturas,debito,29.9,cartao_credito
+TX00227,2026-06-18,Aplicativo de transporte,transporte,debito,21.12,cartao_credito
+TX00232,2026-06-18,Cinema e eventos,lazer,debito,52.18,cartao_debito
+TX00212,2026-06-19,Delivery de comida,alimentacao,debito,82.22,cartao_debito
+TX00195,2026-06-20,Seguro do carro,transporte,debito,210.0,debito_automatico
+TX00206,2026-06-20,Restaurante,alimentacao,debito,113.38,pix
+TX00221,2026-06-20,Aplicativo de transporte,transporte,debito,13.24,cartao_credito
+TX00224,2026-06-20,Aplicativo de transporte,transporte,debito,25.88,cartao_credito
+TX00216,2026-06-22,Delivery de comida,alimentacao,debito,89.37,cartao_credito
+TX00222,2026-06-22,Aplicativo de transporte,transporte,debito,27.65,pix
+TX00236,2026-06-22,Juros rotativo cartao de credito,servicos_financeiros,debito,307.15,cartao_credito
+TX00208,2026-06-23,Restaurante,alimentacao,debito,30.1,cartao_credito
+TX00211,2026-06-24,Delivery de comida,alimentacao,debito,48.18,cartao_debito
+TX00203,2026-06-25,Restaurante,alimentacao,debito,69.55,cartao_debito
+TX00219,2026-06-25,Supermercado,mercado,debito,343.02,cartao_debito
+TX00230,2026-06-25,Posto de combustivel,transporte,debito,212.32,cartao_debito
+TX00207,2026-06-27,Restaurante,alimentacao,debito,136.32,pix
+TX00251,2026-07-01,Restaurante,alimentacao,debito,65.0,pix
+TX00260,2026-07-02,Delivery de comida,alimentacao,debito,37.55,cartao_credito
+TX00245,2026-07-03,Streaming de video A,assinaturas,debito,39.9,cartao_credito
+TX00272,2026-07-03,Aplicativo de transporte,transporte,debito,30.28,cartao_credito
+TX00237,2026-07-05,Salario liquido,salario,credito,6800.0,ted
+TX00238,2026-07-05,Aluguel,moradia,debito,1949.73,debito_automatico
+TX00239,2026-07-05,Condominio,moradia,debito,450.03,debito_automatico
+TX00268,2026-07-05,Supermercado,mercado,debito,186.33,pix
+TX00249,2026-07-06,Academia,assinaturas,debito,109.9,cartao_credito
+TX00259,2026-07-06,Restaurante,alimentacao,debito,36.86,cartao_credito
+TX00246,2026-07-07,Streaming de video B,assinaturas,debito,34.9,cartao_credito
+TX00243,2026-07-08,Mensalidade curso,educacao,debito,389.0,debito_automatico
+TX00252,2026-07-08,Restaurante,alimentacao,debito,36.85,pix
+TX00265,2026-07-08,Delivery de comida,alimentacao,debito,76.59,pix
+TX00271,2026-07-08,Aplicativo de transporte,transporte,debito,23.23,cartao_credito
+TX00253,2026-07-09,Restaurante,alimentacao,debito,142.16,cartao_credito
+TX00242,2026-07-10,Plano de saude,saude,debito,512.0,debito_automatico
+TX00278,2026-07-10,Posto de combustivel,transporte,debito,108.76,cartao_credito
+TX00247,2026-07-11,Streaming de musica,assinaturas,debito,21.9,cartao_credito
+TX00269,2026-07-11,Supermercado,mercado,debito,120.82,cartao_debito
+TX00284,2026-07-11,Farmacia,saude,debito,55.95,cartao_debito
+TX00240,2026-07-12,Energia eletrica,moradia,debito,167.22,debito_automatico
+TX00274,2026-07-12,Aplicativo de transporte,transporte,debito,37.69,cartao_credito
+TX00276,2026-07-12,Aplicativo de transporte,transporte,debito,56.66,pix
+TX00262,2026-07-13,Delivery de comida,alimentacao,debito,70.49,cartao_debito
+TX00248,2026-07-14,Armazenamento em nuvem,assinaturas,debito,12.99,cartao_credito
+TX00258,2026-07-14,Restaurante,alimentacao,debito,63.79,cartao_debito
+TX00241,2026-07-15,Internet banda larga,moradia,debito,130.55,debito_automatico
+TX00264,2026-07-15,Delivery de comida,alimentacao,debito,53.98,cartao_credito
+TX00270,2026-07-15,Aplicativo de transporte,transporte,debito,37.13,cartao_debito
+TX00273,2026-07-15,Aplicativo de transporte,transporte,debito,51.2,pix
+TX00255,2026-07-16,Restaurante,alimentacao,debito,113.75,cartao_debito
+TX00266,2026-07-16,Supermercado,mercado,debito,244.36,cartao_debito
+TX00279,2026-07-17,Posto de combustivel,transporte,debito,214.4,cartao_credito
+TX00250,2026-07-18,Aplicativo de produtividade,assinaturas,debito,29.9,cartao_credito
+TX00256,2026-07-18,Restaurante,alimentacao,debito,80.35,cartao_credito
+TX00280,2026-07-18,Cinema e eventos,lazer,debito,35.83,cartao_debito
+TX00244,2026-07-20,Seguro do carro,transporte,debito,210.0,debito_automatico
+TX00261,2026-07-20,Delivery de comida,alimentacao,debito,32.32,pix
+TX00283,2026-07-21,Farmacia,saude,debito,120.48,pix
+TX00277,2026-07-22,Aplicativo de transporte,transporte,debito,62.02,cartao_debito
+TX00285,2026-07-22,Juros rotativo cartao de credito,servicos_financeiros,debito,351.68,cartao_credito
+TX00257,2026-07-23,Restaurante,alimentacao,debito,106.2,pix
+TX00282,2026-07-23,Loja de roupas,vestuario,debito,304.74,cartao_debito
+TX00267,2026-07-26,Supermercado,mercado,debito,257.98,pix
+TX00254,2026-07-27,Restaurante,alimentacao,debito,140.38,cartao_credito
+TX00281,2026-07-27,Cinema e eventos,lazer,debito,69.62,cartao_credito
+TX00263,2026-07-28,Delivery de comida,alimentacao,debito,35.98,cartao_debito
+TX00275,2026-07-28,Aplicativo de transporte,transporte,debito,56.13,cartao_credito

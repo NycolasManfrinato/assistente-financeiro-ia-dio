@@ -1,0 +1,11 @@
+id_atendimento,data,canal,assunto,resumo,resolvido
+AT0001,2026-02-18,chat,cadastro,Cliente atualizou endereco e telefone de contato,sim
+AT0002,2026-03-04,telefone,cartao,Cliente questionou cobranca de anuidade do cartao e pediu isencao,sim
+AT0003,2026-03-27,chat,investimentos,Cliente perguntou a diferenca entre poupanca e CDB,sim
+AT0004,2026-04-15,app,limite,Cliente solicitou aumento de limite do cartao de credito,nao
+AT0005,2026-05-06,chat,fatura,Cliente relatou dificuldade para pagar a fatura integral do mes,nao
+AT0006,2026-05-23,telefone,rotativo,Cliente pediu explicacao sobre os juros do rotativo cobrados na fatura,sim
+AT0007,2026-06-09,app,assinaturas,Cliente pediu ajuda para identificar cobrancas recorrentes no cartao,sim
+AT0008,2026-06-30,chat,divida,Cliente pediu simulacao de parcelamento da fatura do cartao,nao
+AT0009,2026-07-14,chat,investimentos,Cliente perguntou onde guardar a reserva de emergencia,sim
+AT0010,2026-07-28,app,planejamento,Cliente pediu ajuda para montar um plano de reducao de gastos,nao

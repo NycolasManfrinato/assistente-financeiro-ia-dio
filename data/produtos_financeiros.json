@@ -1,0 +1,200 @@
+{
+  "_meta": {
+    "descricao": "Catálogo de produtos financeiros fictícios usado como base de conhecimento do agente Bússola.",
+    "aviso": "Dados MOCKADOS para fins educacionais. Não representam produtos reais nem oferta de investimento.",
+    "data_referencia": "2026-08-01",
+    "indexadores_referencia": {
+      "cdi_ano": 0.1015,
+      "selic_ano": 0.1025,
+      "ipca_12m": 0.0438
+    }
+  },
+  "produtos": [
+    {
+      "id": "PROD-001",
+      "nome": "Conta Poupança",
+      "categoria": "renda_fixa",
+      "perfis_indicados": [
+        "conservador",
+        "moderado",
+        "arrojado"
+      ],
+      "risco": "muito_baixo",
+      "liquidez": "diaria",
+      "carencia_dias": 0,
+      "aplicacao_minima": 1.0,
+      "rentabilidade_referencia": "70% da Selic + TR quando Selic > 8,5% a.a.",
+      "rentabilidade_estimada_ano": 0.0717,
+      "tributacao": "isento de IR para pessoa física",
+      "taxa_administracao_ano": 0.0,
+      "garantia_fgc": true,
+      "adequado_para": [
+        "reserva_emergencia"
+      ],
+      "resumo": "Aplicação mais simples e de liquidez imediata, isenta de IR, porém com rentabilidade historicamente abaixo do CDI.",
+      "fonte": "data/produtos_financeiros.json#PROD-001"
+    },
+    {
+      "id": "PROD-002",
+      "nome": "CDB Liquidez Diária",
+      "categoria": "renda_fixa",
+      "perfis_indicados": [
+        "conservador",
+        "moderado",
+        "arrojado"
+      ],
+      "risco": "baixo",
+      "liquidez": "diaria",
+      "carencia_dias": 0,
+      "aplicacao_minima": 100.0,
+      "rentabilidade_referencia": "102% do CDI",
+      "rentabilidade_estimada_ano": 0.1035,
+      "tributacao": "IR regressivo de 22,5% a 15% sobre o rendimento",
+      "taxa_administracao_ano": 0.0,
+      "garantia_fgc": true,
+      "adequado_para": [
+        "reserva_emergencia",
+        "curto_prazo"
+      ],
+      "resumo": "Renda fixa com resgate a qualquer momento e cobertura do FGC até 250 mil por CPF por instituição. Costuma render mais que a poupança.",
+      "fonte": "data/produtos_financeiros.json#PROD-002"
+    },
+    {
+      "id": "PROD-003",
+      "nome": "Tesouro Selic 2029",
+      "categoria": "renda_fixa",
+      "perfis_indicados": [
+        "conservador",
+        "moderado",
+        "arrojado"
+      ],
+      "risco": "muito_baixo",
+      "liquidez": "D+1",
+      "carencia_dias": 0,
+      "aplicacao_minima": 30.0,
+      "rentabilidade_referencia": "Selic + 0,08% a.a.",
+      "rentabilidade_estimada_ano": 0.1033,
+      "tributacao": "IR regressivo de 22,5% a 15% sobre o rendimento",
+      "taxa_administracao_ano": 0.0,
+      "garantia_fgc": false,
+      "adequado_para": [
+        "reserva_emergencia",
+        "medio_prazo"
+      ],
+      "resumo": "Título público pós-fixado atrelado à Selic, com baixa oscilação de preço e liquidez em D+1. Não tem FGC, mas tem risco soberano.",
+      "fonte": "data/produtos_financeiros.json#PROD-003"
+    },
+    {
+      "id": "PROD-004",
+      "nome": "LCI 90 dias",
+      "categoria": "renda_fixa",
+      "perfis_indicados": [
+        "conservador",
+        "moderado"
+      ],
+      "risco": "baixo",
+      "liquidez": "no_vencimento",
+      "carencia_dias": 90,
+      "aplicacao_minima": 1000.0,
+      "rentabilidade_referencia": "94% do CDI",
+      "rentabilidade_estimada_ano": 0.0954,
+      "tributacao": "isento de IR para pessoa física",
+      "taxa_administracao_ano": 0.0,
+      "garantia_fgc": true,
+      "adequado_para": [
+        "curto_prazo",
+        "medio_prazo"
+      ],
+      "resumo": "Letra de crédito imobiliário isenta de IR. Tem carência de 90 dias, portanto não serve como reserva de emergência.",
+      "fonte": "data/produtos_financeiros.json#PROD-004"
+    },
+    {
+      "id": "PROD-005",
+      "nome": "Fundo Multimercado Moderado",
+      "categoria": "multimercado",
+      "perfis_indicados": [
+        "moderado",
+        "arrojado"
+      ],
+      "risco": "medio",
+      "liquidez": "D+30",
+      "carencia_dias": 30,
+      "aplicacao_minima": 500.0,
+      "rentabilidade_referencia": "CDI + 2% a.a. (alvo, sem garantia)",
+      "rentabilidade_estimada_ano": 0.1215,
+      "tributacao": "IR regressivo de 22,5% a 15% sobre o rendimento, com come-cotas",
+      "taxa_administracao_ano": 0.015,
+      "garantia_fgc": false,
+      "adequado_para": [
+        "medio_prazo",
+        "longo_prazo"
+      ],
+      "resumo": "Fundo que combina renda fixa, câmbio e bolsa. Alvo de retorno acima do CDI, mas com oscilação e possibilidade de perda.",
+      "fonte": "data/produtos_financeiros.json#PROD-005"
+    },
+    {
+      "id": "PROD-006",
+      "nome": "Fundo de Ações Índice",
+      "categoria": "renda_variavel",
+      "perfis_indicados": [
+        "arrojado"
+      ],
+      "risco": "alto",
+      "liquidez": "D+30",
+      "carencia_dias": 30,
+      "aplicacao_minima": 100.0,
+      "rentabilidade_referencia": "acompanha o Ibovespa, sem garantia de retorno",
+      "rentabilidade_estimada_ano": null,
+      "tributacao": "IR de 15% sobre o ganho no resgate",
+      "taxa_administracao_ano": 0.005,
+      "garantia_fgc": false,
+      "adequado_para": [
+        "longo_prazo"
+      ],
+      "resumo": "Renda variável com alta oscilação. Pode apresentar perdas relevantes no curto prazo. Indicado apenas para perfil arrojado e horizonte longo.",
+      "fonte": "data/produtos_financeiros.json#PROD-006"
+    },
+    {
+      "id": "PROD-007",
+      "nome": "Portabilidade de Dívida de Cartão",
+      "categoria": "credito",
+      "perfis_indicados": [
+        "conservador",
+        "moderado",
+        "arrojado"
+      ],
+      "risco": "nao_aplicavel",
+      "liquidez": "nao_aplicavel",
+      "carencia_dias": 0,
+      "aplicacao_minima": 0.0,
+      "rentabilidade_referencia": null,
+      "rentabilidade_estimada_ano": null,
+      "tributacao": "IOF conforme legislação vigente",
+      "taxa_juros_mes": 0.0289,
+      "garantia_fgc": false,
+      "adequado_para": [
+        "quitacao_divida"
+      ],
+      "resumo": "Troca da dívida do rotativo do cartão (juros médios de 14,5% ao mês) por crédito pessoal a 2,89% ao mês. Reduz o custo total da dívida.",
+      "fonte": "data/produtos_financeiros.json#PROD-007"
+    },
+    {
+      "id": "PROD-008",
+      "nome": "Rotativo do Cartão de Crédito",
+      "categoria": "credito",
+      "perfis_indicados": [],
+      "risco": "nao_aplicavel",
+      "liquidez": "nao_aplicavel",
+      "carencia_dias": 0,
+      "aplicacao_minima": 0.0,
+      "rentabilidade_referencia": null,
+      "rentabilidade_estimada_ano": null,
+      "tributacao": "IOF conforme legislação vigente",
+      "taxa_juros_mes": 0.145,
+      "garantia_fgc": false,
+      "adequado_para": [],
+      "resumo": "Crédito automático acionado quando o cliente paga menos que o valor total da fatura. É a linha de crédito mais cara do mercado brasileiro.",
+      "fonte": "data/produtos_financeiros.json#PROD-008"
+    }
+  ]
+}

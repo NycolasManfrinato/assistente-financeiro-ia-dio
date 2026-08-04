@@ -1,0 +1,198 @@
+{
+  "_meta": {
+    "descricao": "Base de conhecimento conceitual do agente Bússola. Cada item é uma unidade recuperável com id próprio para citação.",
+    "aviso": "Conteúdo educacional. Não constitui recomendação de investimento.",
+    "data_referencia": "2026-08-01"
+  },
+  "itens": [
+    {
+      "id": "FAQ-001",
+      "titulo": "O que é reserva de emergência",
+      "tags": [
+        "reserva",
+        "emergencia",
+        "colchao",
+        "seguranca",
+        "imprevisto"
+      ],
+      "conteudo": "Reserva de emergência é um valor guardado para cobrir imprevistos como desemprego, problema de saúde ou conserto urgente. A referência mais usada é de 3 a 6 meses do custo fixo mensal. Ela deve ficar em aplicações de liquidez imediata e risco baixo, porque o objetivo é disponibilidade e não rentabilidade.",
+      "fonte": "data/faq.json#FAQ-001"
+    },
+    {
+      "id": "FAQ-002",
+      "titulo": "Diferença entre poupança e CDB",
+      "tags": [
+        "poupanca",
+        "cdb",
+        "renda fixa",
+        "rendimento",
+        "comparacao"
+      ],
+      "conteudo": "A poupança é isenta de imposto de renda e tem liquidez imediata, mas rende 70% da Selic mais TR quando a Selic está acima de 8,5% ao ano. O CDB de liquidez diária costuma render um percentual do CDI (por exemplo 102%) e sofre imposto de renda regressivo de 22,5% a 15% sobre o rendimento. Mesmo com o imposto, um CDB a 102% do CDI normalmente supera a poupança no cenário atual. Ambos têm cobertura do FGC até 250 mil reais por CPF por instituição.",
+      "fonte": "data/faq.json#FAQ-002"
+    },
+    {
+      "id": "FAQ-003",
+      "titulo": "Como funciona o rotativo do cartão de crédito",
+      "tags": [
+        "rotativo",
+        "cartao",
+        "juros",
+        "fatura",
+        "divida"
+      ],
+      "conteudo": "O rotativo é acionado quando o cliente paga menos que o valor total da fatura. O saldo restante vira uma dívida com juros que estão entre os mais altos do mercado brasileiro, na casa de 14% ao mês no catálogo desta base. Por regra do Banco Central, o rotativo dura no máximo um ciclo de fatura e depois deve ser convertido em parcelamento. Pagar apenas o mínimo da fatura é o caminho mais rápido para a dívida crescer.",
+      "fonte": "data/faq.json#FAQ-003"
+    },
+    {
+      "id": "FAQ-004",
+      "titulo": "O que é o CDI",
+      "tags": [
+        "cdi",
+        "indexador",
+        "taxa",
+        "renda fixa"
+      ],
+      "conteudo": "CDI é o Certificado de Depósito Interbancário, taxa de referência dos empréstimos entre bancos. Ela anda muito próxima da Selic e serve de referência para a maior parte da renda fixa pós-fixada. Quando um produto rende 102% do CDI, significa que ele entrega 102% dessa taxa de referência.",
+      "fonte": "data/faq.json#FAQ-004"
+    },
+    {
+      "id": "FAQ-005",
+      "titulo": "O que é o FGC",
+      "tags": [
+        "fgc",
+        "garantia",
+        "protecao",
+        "risco"
+      ],
+      "conteudo": "O Fundo Garantidor de Créditos é um mecanismo de proteção que cobre até 250 mil reais por CPF por instituição financeira, com teto global de 1 milhão de reais renovável a cada quatro anos. Cobre poupança, CDB, LCI, LCA e conta corrente. Não cobre fundos de investimento, ações nem títulos públicos.",
+      "fonte": "data/faq.json#FAQ-005"
+    },
+    {
+      "id": "FAQ-006",
+      "titulo": "Como funciona a tributação regressiva da renda fixa",
+      "tags": [
+        "imposto",
+        "ir",
+        "tributacao",
+        "regressiva",
+        "renda fixa"
+      ],
+      "conteudo": "Na renda fixa tributada o imposto de renda incide apenas sobre o rendimento e cai conforme o tempo de aplicação: 22,5% até 180 dias, 20% de 181 a 360 dias, 17,5% de 361 a 720 dias e 15% acima de 720 dias. Quanto mais tempo aplicado, menor a mordida.",
+      "fonte": "data/faq.json#FAQ-006"
+    },
+    {
+      "id": "FAQ-007",
+      "titulo": "O que é perfil de investidor e suitability",
+      "tags": [
+        "perfil",
+        "suitability",
+        "conservador",
+        "moderado",
+        "arrojado"
+      ],
+      "conteudo": "Suitability é o processo de identificar o perfil do investidor a partir de tolerância a risco, objetivos e horizonte. Os perfis mais comuns são conservador, moderado e arrojado. A instituição só deve oferecer produtos compatíveis com o perfil vigente do cliente, e o questionário costuma ter validade de 24 meses.",
+      "fonte": "data/faq.json#FAQ-007"
+    },
+    {
+      "id": "FAQ-008",
+      "titulo": "Método bola de neve e avalanche para quitar dívidas",
+      "tags": [
+        "divida",
+        "quitacao",
+        "bola de neve",
+        "avalanche",
+        "estrategia"
+      ],
+      "conteudo": "No método avalanche a pessoa quita primeiro a dívida de maior taxa de juros, o que minimiza o custo total. No método bola de neve quita primeiro a menor dívida, o que gera senso de progresso mais rápido. Em termos financeiros o avalanche é mais eficiente; em termos comportamentais a bola de neve costuma sustentar melhor a motivação.",
+      "fonte": "data/faq.json#FAQ-008"
+    },
+    {
+      "id": "FAQ-009",
+      "titulo": "Regra 50-30-20 de organização do orçamento",
+      "tags": [
+        "orcamento",
+        "50-30-20",
+        "planejamento",
+        "gastos"
+      ],
+      "conteudo": "A regra 50-30-20 sugere destinar cerca de 50% da renda líquida a necessidades (moradia, alimentação, transporte, saúde), 30% a desejos (lazer, assinaturas, vestuário) e 20% a poupança e quitação de dívidas. É um ponto de partida de diagnóstico e não uma regra rígida.",
+      "fonte": "data/faq.json#FAQ-009"
+    },
+    {
+      "id": "FAQ-010",
+      "titulo": "O que são juros compostos",
+      "tags": [
+        "juros",
+        "compostos",
+        "rendimento",
+        "matematica financeira"
+      ],
+      "conteudo": "Nos juros compostos o rendimento de cada período passa a render nos períodos seguintes. A fórmula do montante é M = C * (1 + i) ** n, onde C é o capital inicial, i a taxa por período e n o número de períodos. O mesmo mecanismo que faz um investimento crescer é o que faz uma dívida de rotativo crescer.",
+      "fonte": "data/faq.json#FAQ-010"
+    },
+    {
+      "id": "FAQ-011",
+      "titulo": "Liquidez e carência",
+      "tags": [
+        "liquidez",
+        "carencia",
+        "resgate",
+        "prazo"
+      ],
+      "conteudo": "Liquidez é a facilidade de transformar a aplicação em dinheiro disponível. Liquidez diária permite resgate no mesmo dia; D+1 significa que o dinheiro cai no dia útil seguinte. Carência é o período mínimo em que o resgate não é permitido. Produto com carência não serve para reserva de emergência.",
+      "fonte": "data/faq.json#FAQ-011"
+    },
+    {
+      "id": "FAQ-012",
+      "titulo": "Por que a Bússola não indica ações específicas",
+      "tags": [
+        "escopo",
+        "limite",
+        "recomendacao",
+        "acao",
+        "regulacao"
+      ],
+      "conteudo": "A Bússola é uma ferramenta educacional. Recomendação de compra ou venda de ativo específico é atividade de consultoria e análise de valores mobiliários, regulada pela CVM e exercida por profissionais certificados. O agente explica conceitos, compara características de produtos do catálogo e faz simulações, mas não indica ativos nem promete rentabilidade.",
+      "fonte": "data/faq.json#FAQ-012"
+    },
+    {
+      "id": "FAQ-013",
+      "titulo": "Diferença entre custo fixo e custo variável no orçamento pessoal",
+      "tags": [
+        "custo fixo",
+        "custo variavel",
+        "orcamento",
+        "gastos"
+      ],
+      "conteudo": "Custo fixo é a despesa recorrente e previsível, como aluguel, condomínio, plano de saúde e mensalidades. Custo variável oscila conforme o comportamento do mês, como restaurante, transporte por aplicativo e lazer. O cálculo da reserva de emergência usa o custo fixo, porque é o piso que a pessoa precisa cobrir mesmo sem renda.",
+      "fonte": "data/faq.json#FAQ-013"
+    },
+    {
+      "id": "FAQ-014",
+      "titulo": "O que é portabilidade de dívida",
+      "tags": [
+        "portabilidade",
+        "divida",
+        "credito",
+        "juros",
+        "troca"
+      ],
+      "conteudo": "Portabilidade de dívida é a transferência de um saldo devedor de uma linha cara para outra mais barata, por exemplo trocar o rotativo do cartão por um crédito pessoal. O ganho vem da diferença de taxa. Vale checar custo efetivo total, IOF e prazo antes de decidir.",
+      "fonte": "data/faq.json#FAQ-014"
+    },
+    {
+      "id": "FAQ-015",
+      "titulo": "Como a Bússola trata dados pessoais",
+      "tags": [
+        "privacidade",
+        "lgpd",
+        "dados",
+        "seguranca",
+        "senha"
+      ],
+      "conteudo": "O agente trabalha apenas com a base mockada do repositório e nunca solicita senha, código de segurança do cartão, token ou qualquer credencial. Se a pessoa enviar espontaneamente um dado sensível, o agente alerta sobre o risco e não registra o dado. Nenhuma operação financeira é executada pelo assistente.",
+      "fonte": "data/faq.json#FAQ-015"
+    }
+  ]
+}

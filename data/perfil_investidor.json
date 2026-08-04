@@ -1,0 +1,43 @@
+{
+  "cliente_id": "CLI-000482",
+  "nome_exibicao": "Cliente",
+  "faixa_etaria": "30-39",
+  "renda_mensal_liquida": 6800.0,
+  "perfil_investidor": "moderado",
+  "data_suitability": "2026-02-11",
+  "validade_suitability_meses": 24,
+  "tolerancia_risco_score": 54,
+  "horizonte_investimento": "medio_prazo",
+  "reserva_emergencia": {
+    "valor_atual": 9200.0,
+    "meta_meses": 6,
+    "custo_fixo_mensal": 4100.0
+  },
+  "objetivos": [
+    {
+      "id": "OBJ-1",
+      "descricao": "Formar reserva de emergencia de 6 meses de custo fixo",
+      "valor_alvo": 24600.0,
+      "prazo_meses": 24,
+      "prioridade": "alta"
+    },
+    {
+      "id": "OBJ-2",
+      "descricao": "Entrada de imovel",
+      "valor_alvo": 60000.0,
+      "prazo_meses": 60,
+      "prioridade": "media"
+    }
+  ],
+  "produtos_contratados": ["CONTA_CORRENTE", "CARTAO_CREDITO", "POUPANCA"],
+  "restricoes": {
+    "aceita_renda_variavel": true,
+    "percentual_maximo_renda_variavel": 20,
+    "aceita_produtos_com_carencia": false
+  },
+  "consentimentos": {
+    "uso_dados_para_recomendacao": true,
+    "data_consentimento": "2026-02-11"
+  },
+  "observacoes": "Perfil moderado confirmado em suitability vigente. Nao aceita produtos com carencia de resgate."
+}
